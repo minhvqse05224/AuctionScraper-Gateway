@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AuctionScraper-Gateway.git/static/css/main.ab626749.chunk.css",
+    "main.js": "/AuctionScraper-Gateway.git/static/js/main.fa0b8981.chunk.js",
+    "main.js.map": "/AuctionScraper-Gateway.git/static/js/main.fa0b8981.chunk.js.map",
+    "runtime-main.js": "/AuctionScraper-Gateway.git/static/js/runtime-main.4b61b5f2.js",
+    "runtime-main.js.map": "/AuctionScraper-Gateway.git/static/js/runtime-main.4b61b5f2.js.map",
+    "static/css/2.69121389.chunk.css": "/AuctionScraper-Gateway.git/static/css/2.69121389.chunk.css",
+    "static/js/2.13ebd9af.chunk.js": "/AuctionScraper-Gateway.git/static/js/2.13ebd9af.chunk.js",
+    "static/js/2.13ebd9af.chunk.js.map": "/AuctionScraper-Gateway.git/static/js/2.13ebd9af.chunk.js.map",
+    "index.html": "/AuctionScraper-Gateway.git/index.html",
+    "precache-manifest.dbb75f4d79c48129ddbc41e532f43474.js": "/AuctionScraper-Gateway.git/precache-manifest.dbb75f4d79c48129ddbc41e532f43474.js",
+    "service-worker.js": "/AuctionScraper-Gateway.git/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/AuctionScraper-Gateway.git/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ab626749.chunk.css.map": "/AuctionScraper-Gateway.git/static/css/main.ab626749.chunk.css.map",
+    "static/js/2.13ebd9af.chunk.js.LICENSE.txt": "/AuctionScraper-Gateway.git/static/js/2.13ebd9af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b61b5f2.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.13ebd9af.chunk.js",
+    "static/css/main.ab626749.chunk.css",
+    "static/js/main.fa0b8981.chunk.js"
+  ]
+}
